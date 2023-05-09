@@ -1,6 +1,8 @@
 # Arduino Remote Control Ping Pong Launcher
 This project is an Arduino-based remote control ping pong launcher. It utilizes various types of motors to create a fun and interactive experience.
 
+![CAD Demo](https://ibb.co/XVpK5Dy)
+
 ## Requirements
 -   Arduino board
 -   IR remote
